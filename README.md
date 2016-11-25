@@ -1,6 +1,6 @@
 # Pastel Material Color Scheme
 
-#### A dark color scheme using pastel tones of Google's Material Design colorspace
+#### A dark color scheme for Sublime Text using pastel tones of Google's Material Design colorspace
 
 ___
 
